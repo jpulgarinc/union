@@ -1,0 +1,32 @@
+h4{
+    color:blue;
+}
+p{
+    color: rgb(8, 8, 8);
+    background-color: rgb(238, 238, 221);
+    font-size: 50px;
+}
+h1{
+    color: rgb(17, 17, 17);
+    font-size: 50px;
+}
+h3{
+    color: rgb(14, 13, 13);
+    font-size: 50px;
+}
+#COLOR-ROJO{
+    color:red;
+}
+.viernes{
+    color: blueviolet
+}
+body{
+    background-image: url(https://i1.wp.com/www.sinembargo.mx/wp-content/uploads/2021/01/vikingos.jpg?fit=1100%2C580&quality=80&strip=all&ssl=1);
+    background-size: 99.90%;
+    background-repeat: no-repeat;
+    
+}
+.autor{
+    color: black;
+    background-color: aliceblue;
+}
